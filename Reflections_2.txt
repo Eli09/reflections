@@ -10,6 +10,8 @@ Allow editing, adding multiple files easily.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Figure out what is there and use that to only commit upon logical changes.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
