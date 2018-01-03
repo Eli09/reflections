@@ -19,6 +19,8 @@ Trying out new ideas without editing the main version. Easy access to those.
 
 How do the diagrams help you visualize the branch structure?
 
+Understand what relates to what and when branches were made.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
