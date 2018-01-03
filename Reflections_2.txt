@@ -24,5 +24,7 @@ Understand what relates to what and when branches were made.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Combining the changes. Includes a reference to both parents for accessibility.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
