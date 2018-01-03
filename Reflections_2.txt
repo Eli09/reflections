@@ -28,3 +28,5 @@ Combining the changes. Includes a reference to both parents for accessibility.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic - can do many changes simultaneously, though might add recurring lines that have different forms. Manually you can do everything the way you wanted to.
